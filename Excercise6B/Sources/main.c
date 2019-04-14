@@ -24,7 +24,6 @@ void main(void) {
   
   EnableInterrupts;
   
-
   for(;;) {
     __RESET_WATCHDOG();	/* feeds the dog */
   } /* loop forever */
