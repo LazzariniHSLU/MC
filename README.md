@@ -1,2 +1,2 @@
 # MC
-My repo for the Excercises of the lecture MC @ HSLU
+My repo for the Excercises of the Microcontroller lecture @ HSLU
